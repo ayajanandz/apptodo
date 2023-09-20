@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "apptodo",
+    "slug": "apptodo",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "9e0634c2-a596-4eb6-9b6b-9e1a1b709092"
+      }
+    },
+    "android": {
+      "package": "apptodo.ayaj"
+    }
+  }
+}
